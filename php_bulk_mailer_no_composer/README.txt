@@ -1,0 +1,1 @@
+Edit config files then open index.php and click START SENDING

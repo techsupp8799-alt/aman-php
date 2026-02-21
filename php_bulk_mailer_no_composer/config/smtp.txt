@@ -1,0 +1,6 @@
+$mail->Host = 'email-smtp.ap-south-1.amazonaws.com'; // change region
+$mail->SMTPAuth = true;
+$mail->Username = 'YOUR_SES_SMTP_USERNAME';
+$mail->Password = 'YOUR_SES_SMTP_PASSWORD';
+$mail->SMTPSecure = 'tls';
+$mail->Port = 587;
